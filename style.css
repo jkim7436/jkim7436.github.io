@@ -2,6 +2,12 @@ body{
   font-family:sans-serif;
   text-align:center;
 }
+.container{
+  flex-flow:row;
+  display:flex;
+  justify-content:flex-start;
+  align-item:flex-start;
+}
 nav {
   width:100%;
   padding:20px;
